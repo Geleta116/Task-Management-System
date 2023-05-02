@@ -37,7 +37,7 @@ Once all the packages has been added you can simply type nest run start:dev to r
 
 ### Front end
 
-The frontend part consisted of css, javascript and html folders 
+The frontend part consistes of css, javascript and html folders 
 the javascript files render different data from the databas
 Before trying to create any task please do remember to signup and then login as the system will not assist, create or do anything
 in managing any tasks for a user that doesn't exist
