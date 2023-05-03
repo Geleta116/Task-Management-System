@@ -44,7 +44,7 @@ export class TasksService {
    return this.repo.update(id,updateTaskDto);
   }
 
-  //write a typeorm find byid and update with updatetaskdto
+
 
   async remove(id: number) {
     return await this.repo.delete({id: id});
